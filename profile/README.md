@@ -5,7 +5,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | Member | NIM | Role | Contacts |
 |--------|------------|------|----------|
 | Fillah Amanda Sulton | 2141762001 | Project Manager | [Linkedin](https://github.com/ASFillah)
-| Andhika Dwi Khalisyahputra | 2141762114 | Programmer | [Linkedin](https://github.com/andhikadk)
+| Andhika Dwi Khalisyahputra | 2141762114 | Programmer | [Linkedin](https://www.linkedin.com/in/andhikadk)
 | Karina Aulia Primanti Putri | 2141762096 | Designer | [Linkedin](https://www.linkedin.com/in/karinauliap/)
 | Achmad Chaidar Ismail | 2141762102 | Analyst | [Linkedin](https://github.com/Chaidaris/)
 | Alega Naufal Akbar | 2141762058 | Tester | [Linkedin](https://github.com/CaradhiANA/)
