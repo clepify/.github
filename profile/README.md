@@ -13,5 +13,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 # Documentation
 | Subject | Link |
 |--------|------|
-| Proposal |  |
-| Figma |  |
+| Website | http://clepify.nevero.id/ |
+| SKPL | https://1drv.ms/w/s!ApL2iiTdluVsgiX_MUnpA50VzJ5C |
+| Figma | https://www.figma.com/file/crFslwoA1Sb7eWoggspUMg/Clepify?type=design&node-id=94%3A563&mode=design&t=7MJJU4VxaYVCgPrS-1 |
+| Testing | https://docs.google.com/spreadsheets/d/1CooGquut2TSPuoZnGqwbOItzWhXOg0feKDiyJCgHvq8/edit#gid=1069627018 |
